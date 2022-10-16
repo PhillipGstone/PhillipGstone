@@ -1,6 +1,6 @@
 ### Hi there. I'm Phillip Nice to meet you
 
-- 🌱 I’m currently learning: Web Develpment with Code Nation. 
+- 🌱 I finished a masters Web Develpment course with Code Nation. 
 
 <!--
 **PhillipGstone/PhillipGstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
