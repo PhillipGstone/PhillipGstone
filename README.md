@@ -1,6 +1,7 @@
 ### Hi there. I'm Phillip Nice to meet you
 
 - 🌱 I finished a masters Web Develpment course with Code Nation. 
+- I know HTML CSS JavaScript Python I also know some web frameworks like ReactJS
 
 <!--
 **PhillipGstone/PhillipGstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
